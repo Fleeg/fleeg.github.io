@@ -49,7 +49,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Written from scratch by
-  - line: Lucas Boscaini.
+  - line: <a href="https://github.com/lucasb">Lucas Boscaini</a>.
 
 # Credits content
 credits: 'All rights reserved. Made with <br/> <a href="https://jekyllrb.com/">Jekyll</a> and hosted by <a href="https://github.com/fleeg">GitHub</a>.'
