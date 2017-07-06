@@ -4,6 +4,42 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.main-logo {
+    max-width: 215px;
+    width: 50%;
+    margin: 0 auto;
+    font-size: 100px;
+}
+ 
+.flogo {
+	font-family: 'Roboto Condensed';
+	font-weight: bold;
+    text-transform: none;
+}
+
+.flogo-icon::before {
+    margin-bottom: 10px;
+	padding: 0 30px;
+	content: 'F';
+	font-family: 'Roboto Condensed';
+    font-weight: bold;
+	color: #FFFFFF;
+    max-width: 50px;	
+    border-radius: 10px;
+    border: 1px solid #FFFFFF;
+}
+
+.flogo-icon-inline::before {
+	margin-right: 10px;
+	padding: 0 13px;
+	content: 'F';
+	font-family: 'Roboto Condensed';
+    font-weight: bold;
+	color: #FFFFFF;
+	background-color: #{{ site.color.primary }};
+    border-radius: 5px;
+}
+
 body {
     overflow-x: hidden;
 }
