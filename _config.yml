@@ -41,8 +41,8 @@ footer:
 social:
   - title: github
     url: https://github.com/fleeg
-  - title: slack
-    url: https://fleeg.slack.com
+  - title: rocket
+    url: https://fleeg.rocket.chat
   - title: twitter
     url: https://twitter.com/lucasboscaini
 
