@@ -1,6 +1,5 @@
 # Site settings
 title: Fleeg
-email: lucasboscaini@gmail.com
 url: https://fleeg.github.io
 description: "Fleeg: Opensource Platform in construction."
 keywords: "Opensource, Search Network, Platform"
@@ -41,8 +40,8 @@ footer:
 social:
   - title: github
     url: https://github.com/fleeg
-  - title: rocket
-    url: https://fleeg.rocket.chat
+  - title: gitter
+    url: https://gitter.im/fleeg/Lobby
   - title: twitter
     url: https://twitter.com/lucasboscaini
 
